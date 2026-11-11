@@ -1,5 +1,5 @@
 {
-  "description": "原图与 HTML 文件校验清单；仅发布新版操作演示视频，旧视频不包含在本包或上传记录中。",
+  "description": "校验清单记录首次发布版本；仅包含新版操作演示视频，旧视频未上传。",
   "figma_prototype": "https://www.figma.com/proto/RF1My8Yh2994z0DMbGgtXi/%E8%80%81%E4%BA%BA%E7%AB%AF?node-id=329-328&t=DBbZBDRZophZvJDR-1",
   "figma_public_access_verified": false,
   "files": [
@@ -211,5 +211,13 @@
     "included_as_original_mov": false,
     "note": "原 MOV 保留本机；通过 Passthrough 重新封装为一份 MP4 供网页播放，不重复上传。"
   },
-  "github_upload_status": "pending_authentication_check"
+  "github_upload_status": "uploaded",
+  "published_commit": "25f8f889e8cdf520f0653943511b3edbc101ee34",
+  "initial_upload_verification": {
+    "file_count": 45,
+    "png_count": 36,
+    "video_count": 1,
+    "video_bytes": 17047909,
+    "all_blob_checksums_matched": true
+  }
 }
