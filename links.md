@@ -5,4 +5,4 @@
 - [HTML 演示文件](index.html)
 - [原型与教程总览](materials.html)
 
-Figma 原型匿名访问尚待验证。GitHub 仓库已验证公开可访问，当前为空且尚未启用 Pages。启用后的预期网址为 `https://joyeuxgentil0921-alt.github.io/medicine-product/`。
+Figma 原型匿名访问尚待验证。GitHub 仓库已验证公开可访问，已上传原型图、HTML 演示和新版操作视频；GitHub Pages 尚待启用。启用后的预期网址为 `https://joyeuxgentil0921-alt.github.io/medicine-product/`。
