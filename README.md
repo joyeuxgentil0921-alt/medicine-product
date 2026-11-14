@@ -1,7 +1,3 @@
-<p>
-  <img src="assets/haohao-logo.png" alt="好好 Logo" width="96" height="96">
-</p>
-
 # 好好 · 老人端用药管理
 
 面向需要长期服用一种或多种药物的居家老人，支持老人自主使用和家属协助管理，并通过字号调整、语音朗读与高亮降低阅读和操作负担。
@@ -20,3 +16,4 @@
 | HTML 预览 | [点击在线体验](https://joyeuxgentil0921-alt.github.io/haohao-medication/) |
 | 原型体验 | [Figma 原型](https://www.figma.com/proto/RF1My8Yh2994z0DMbGgtXi/%E8%80%81%E4%BA%BA%E7%AB%AF?node-id=329-328&t=DBbZBDRZophZvJDR-1) |
 | 操作视频 | [videos/操作演示.mp4](videos/操作演示.mp4) |
+| 产品 Logo | [PNG](assets/haohao-logo.png) · [SVG](assets/haohao-logo.svg) |
