@@ -13,6 +13,6 @@
 | PRD | [好好-老人端PRD/用药助手-老人端PRD.md](好好-老人端PRD/用药助手-老人端PRD.md) |
 | 调研分析 | [好好-调研分析/好好-调研分析.md](好好-调研分析/好好-调研分析.md) |
 | 原型图 | [原型图/](原型图/) |
-| HTML 预览 | [index.html](index.html) |
+| HTML 预览 | [点击在线体验](https://joyeuxgentil0921-alt.github.io/medicine-product/) |
 | 原型体验 | [Figma 原型](https://www.figma.com/proto/RF1My8Yh2994z0DMbGgtXi/%E8%80%81%E4%BA%BA%E7%AB%AF?node-id=329-328&t=DBbZBDRZophZvJDR-1) |
 | 操作视频 | [videos/操作演示.mp4](videos/操作演示.mp4) |
